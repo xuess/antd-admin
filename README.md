@@ -39,3 +39,5 @@ antd pro 基于dva开发
 
 
 [用 husky 和 lint-staged 构建代码检查工作流](https://segmentfault.com/a/1190000009546913)
+
+[语法检查 报错对照表](http://eslint.cn/docs/rules/)
