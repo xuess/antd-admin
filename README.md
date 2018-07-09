@@ -45,3 +45,8 @@ antd pro 基于dva开发
 [语法检查 报错对照表](http://eslint.cn/docs/rules/)
 
 
+* react 基础
+
+[JSX本质](https://mp.weixin.qq.com/s/sag3eIXtczIqzikmA_dwcg)
+
+
